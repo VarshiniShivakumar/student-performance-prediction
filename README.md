@@ -76,4 +76,7 @@ The dataset includes:
  ## Future Enhancements
 - Real-time tracking system  
 - Mobile app integration  
-- Personalized learning recommendations  
+- Personalized learning recommendations
+
+ ## Author
+ **Varshini S**
