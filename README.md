@@ -15,8 +15,6 @@ In traditional education systems:
 - Early identification of weak students is challenging
 - Decisions are often based on assumptions rather than data
 
-This project automates prediction using historical student data. :contentReference[oaicite:0]{index=0}
-
 ## Proposed Solution
 The system:
 - Takes student data as input
@@ -60,7 +58,29 @@ The dataset includes:
 ## Expected Output
 - Student performance prediction  
 - Graphical analysis  
-- Identification of at-risk students  
+- Identification of at-risk students
+
+## Output Screenshots
+
+### Dataset Preview
+![Dataset](outputs/dataset_preview.png)
+
+### Categorical Conversion
+![Conversion](outputs/Categorical_conversion.png)
+
+### Graphs
+![Graphs](outputs/Graphs.png)
+
+### Model Accuracy
+![Accuracy](outputs/model_accuracy_results.png)
+
+### Confusion Matrix
+![Confusion](outputs/confusion_matrix.png)
+
+### Final Prediction
+![Prediction](outputs/final_prediction_output.png)
+
+These outputs demonstrate the working and performance of the Student Performance Prediction System.
 
 ## Advantages
 - Early detection of weak students  
