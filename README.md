@@ -73,7 +73,7 @@ The dataset includes:
 - Cannot capture emotional factors  
 - Accuracy depends on dataset
 
- ## 🔮 Future Enhancements
+ ## Future Enhancements
 - Real-time tracking system  
 - Mobile app integration  
 - Personalized learning recommendations  
